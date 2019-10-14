@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>抛锚工具箱</title>
+    <link>http://something-fresh.org/</link>
+    <description>Recent content on 抛锚工具箱</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://something-fresh.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>AGB</title>
+      <link>http://something-fresh.org/agb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://something-fresh.org/agb/</guid>
+      <description>§1 Lorem Bacon ipsum dolor amet pig pork hamburger tenderloin burgdoggen spare ribs bacon pancetta pork loin tail turducken. Chicken pastrami jerky tongue ball tip strip steak. Ball tip alcatra turkey, cupim strip steak swine short loin tenderloin pancetta corned beef ribeye cow short ribs. Turkey turducken flank filet mignon beef ribs pastrami rump, andouille prosciutto picanha kevin strip steak. Corned beef fatback landjaeger hamburger alcatra, bacon buffalo tongue cow biltong salami sirloin swine.</description>
+    </item>
+    
+    <item>
+      <title>First</title>
+      <link>http://something-fresh.org/blog/first/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://something-fresh.org/blog/first/</guid>
+      <description>My super sweet first blog post!!</description>
+    </item>
+    
+    <item>
+      <title>Second</title>
+      <link>http://something-fresh.org/blog/second/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://something-fresh.org/blog/second/</guid>
+      <description>My awesome blogpost My super sweet second blog post</description>
+    </item>
+    
+    <item>
+      <title>更新日志</title>
+      <link>http://something-fresh.org/latest/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://something-fresh.org/latest/</guid>
+      <description>{{ .Content }}
+最后更新 
+2019年10月14日 
+* 优化了微信版会超出25m的问题。 * 添加了macOS的支持</description>
+    </item>
+    
+  </channel>
+</rss>
